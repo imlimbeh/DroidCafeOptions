@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79dc1ddd94e74c8f79ae3c35aedb3121\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:21:5-39:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79dc1ddd94e74c8f79ae3c35aedb3121\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79dc1ddd94e74c8f79ae3c35aedb3121\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.droidcafeoptions.MainActivity
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:29:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.droidcafeoptions.OrderActivity
+ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:9-51
+	android:name
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79dc1ddd94e74c8f79ae3c35aedb3121\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\79dc1ddd94e74c8f79ae3c35aedb3121\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lein Yi Shun\AndroidStudioProjects\DroidCafeOptions\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\10065a20ed47fd9c99bcf39b1ca3eda6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d85e17f19f1e1f120b57085d0b1e5531\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\d14d10e06c84f1bec86b6784f0041ec6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\ca38bed3648dfeed192b1fae574f49b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\09e61dacf6a375df22141141e684d947\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\082bac870ea3c3fe23702f1af9c72e56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\6e18ae4e5d62592d555c6f7b11c19cc1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\69563e6f8b2aaea3ba3ecc51e9756859\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\846e3cd6be1328a977c4e47abbb35f39\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4f3341c1ed93ac0718c4c30d98986bd5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8b2a02f65546ad073d4f5161914e860e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\486aedf882c32dd010bfed0efce8b2d8\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lein Yi Shun\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\86a25b67cd79d5ea740706bd0b8763fc\AndroidManifest.xml:26:13-58
